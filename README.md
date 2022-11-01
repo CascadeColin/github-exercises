@@ -2,4 +2,4 @@
 
 playing around with git
 
-making a change to README
+This is a main change and merge conflict
